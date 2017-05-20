@@ -1,2 +1,2 @@
-# m2-backend-theme
-M2 Backend Theme
+# backend-theme
+Blue Backend Theme V8
