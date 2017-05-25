@@ -31,7 +31,7 @@
 
     # Your information
     'author': 'MinhHQ',
-    'website': 'https://www.linkedin.com/in/minh-hong-quang-350971109/',
+    'website': 'https://www.linkedin.com/in/minh-hong-350971109/',
     'license': 'AGPL-3',
     'summary': 'Blue Backend Theme V8',
     'images': [
