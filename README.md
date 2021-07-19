@@ -1,6 +1,7 @@
 # backend-theme
 
 ![Licence](https://img.shields.io/badge/licence-AGPL--3-blue.svg)
+[![Build Status](https://app.travis-ci.com/hongquangminh/backend-theme.svg?branch=8.0)](https://app.travis-ci.com/hongquangminh/backend-theme)
 
 Contributions for Community
 ===========================
