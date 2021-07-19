@@ -13,6 +13,6 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[backend-theme](backend-theme/) | 8.0.1.0.0 | Blue Backend Theme V8
+[blue_backend_theme_v8](blue_backend_theme_v8/) | 8.0.1.0.0 | Blue Backend Theme V8
 
 [//]: # (end addons)
