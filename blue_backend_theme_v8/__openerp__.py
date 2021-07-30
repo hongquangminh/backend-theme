@@ -30,8 +30,8 @@
     'category': 'Themes/Backend',
 
     # Your information
-    'author': 'MinhHQ',
-    'website': 'https://www.linkedin.com/in/minh-hong-350971109/',
+    'author': 'MinhHong.Info',
+    'website': 'https://minhhong.info/',
     'license': 'AGPL-3',
     'summary': 'Blue Backend Theme V8',
     'images': [
